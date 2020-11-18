@@ -104,7 +104,8 @@ How to create the CMS Display Rule? How would it be displayed on the storefront?
   * [Magento 2 Dynamic Categories](https://magefan.com/magento-2-dynamic-categories)
   * [Magento 2 Translation Extension](https://magefan.com/magento-2-translation-extension)
   * [Magento 2 WebP Optimized Images Extension](https://magefan.com/magento-2-webp-optimized-images)
-  * [Magento 2 Image Optimization Extension](https://magefan.com/magento-2-image-optimization-extension)
+  * [Magento 2 Image Optimization Extension](https://magefan.com/magento-2-image-optimization)
   * [Magento 2 Zendesk Chat Extension](https://magefan.com/magento-2-zendesk-chat-extension)
+  * [Magento 2 Admin View Extension](https://magefan.com/magento-2-admin-view-extension)
   * [Magento 2 Zero Downtime Deployment](https://magefan.com/blog/magento-2-zero-downtime-deployment)
 
