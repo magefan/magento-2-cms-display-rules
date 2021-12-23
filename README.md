@@ -83,7 +83,7 @@ If you display some CMS blocks/pages only for some groups of customers then what
 
 How to create the CMS Display Rule? How would it be displayed on the storefront? Check [this video](https://www.youtube.com/watch?v=LRBUq4wiyc4) for the answers.
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
