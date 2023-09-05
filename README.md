@@ -9,7 +9,7 @@
 [Magento 2 CMS Display Rules](https://magefan.com/magento-2-cms-display-rules-extension) is the multifunctional extension for CMS blocks and pages management that allows you to optimize your promotional campaign and info distribution in general. Creating CMS Display Rules you define the customer group, date, weekday, time and conditions you want to display CMS blocks/pages under. Provide different of your customers with the new information on a daily basis and encourage them to purchase more with the best deals.
 
 
-<a href="https://magefan.com/magento-2-cms-display-rules-extension"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2-cms-display-rules-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-cms-display-rules-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Benefits
 
