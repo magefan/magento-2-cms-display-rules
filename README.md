@@ -26,52 +26,52 @@
 CMS blocks are that type of content on your website that gets a significant amount of attention. So, the way you display them actually defines how effectively they are going to convert. You can display CMS blocks on product pages to notify your customers about some discounts or provide additional info. But products constantly change and product IDs are replaced. It makes it hard for you to update the widget settings. Magento 2 CMS Display Rules extension solves this and allows you to display the CMS blocks by product attributes. e.g. status, Is on Sale, Color, Quantity, etc.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-cms-block-display-condition.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-cms-block-display-condition_2.webp">
 </p>
 
 ### CMS Display Conditions
 Together with the product attributes you use to define the display of CMS blocks you can use the shopping cart attributes. This feature allows you to display multiple messages like free shipping for those who almost reached $150 in their cart subtotal or the “4th Item for Free” offer for those who've already added 2 same products to their carts. There are no limitations. Create CMS blocks and pages that would drive attention and encourage your customers to stay longer and buy more.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-cms-block-display-conditions_2.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-cms-block-display-conditions-2_2.webp">
 </p>
 
 ### Customer Group Restrictions
 From all the variety of information you share on your website some definitely is not meant for everyone. No free shipping offers for wholesales or “Spend $1500 and get 20% for the next purchase” for general group of customers. The more customer-oriented the message is the better it will be perceived. Magento 2 CMS Display Rules extension allows you to restrict the visibility of some CMS content to different customer groups.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-display-rules-customer-groups.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-display-rules-customer-groups.webp">
 </p>
 
 ### CMS Pages and Blocks Display by Date
 One of the particular features of Magento 2 CMS Display Rules extension is the ability to define the time period for the CMS blocks or pages display. No need for you to enable and disable the CMS content when the discount period or the seasonal sale ends. The extension will automatically enable and disable the CMS block or page based on your configurations.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-display-rules-date_1.webp">
+  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-display-rules-date.webp">
 </p>
 
 ### CMS Pages and Blocks Display by Day of the Week
 Every new day brings something new for your Magento 2 store customers since CMS Display Rule extension allows you to not only create seasonal but daily offers and make your customers happier from day to day. You can offer them “Free Shipping” on Mondays, “3rd Free Item” on Wednesdays and “2 Days Delivery on Fridays”. Whatever the next day brings your customers will be waiting to learn what you’ve prepared for them each day.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-display-rules-day.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-display-rules-day.webp">
 </p>
 
 ### Exact Time to Display
 Wouldn’t the features we’ve described above enough? NO! We came even further. Except for defining the date and the exact day of the week to display the CMS blocks or pages you can set the exact time you want them to be displayed at. 
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-display-rules-time.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-display-rules-time.webp">
 </p>
 
 ### Redirect Feature
 If you display some CMS blocks/pages only for some groups of customers then what the other would see? You definitely don’t want them to feel limited, blocked or somethingelse. If you don’t want NOT LOGGED IN costumes to see some special discount you can display some other block instead. Magento 2 CMS Display Rules extension has the redirect feature that allows you to set the replacement for the CMS block or page. Create an excellent shopping experience for your customers with the CMS Display Rules.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-display-rules-redirect-page.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-display-rules-redirect-page_1.webp">
 </p>
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-display-rules-redirect-block.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-display-rules-redirect-block.webp">
 </p>
 
 ## Documentation
