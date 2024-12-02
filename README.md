@@ -1,89 +1,108 @@
-# [Magento 2 CMS Display Rules](https://magefan.com/magento-2-cms-display-rules-extension) by Magefan
-
-<a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
-
-<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+# [Magento 2 Dynamic Blocks and Pages](https://magefan.com/magento-2-cms-display-rules-extension) by Magefan
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-cms-display-ruls_1.webp">
 
-[Magento 2 CMS Display Rules](https://magefan.com/magento-2-cms-display-rules-extension) is the multifunctional extension for CMS blocks and pages management that allows you to optimize your promotional campaign and info distribution in general. Creating CMS Display Rules you define the customer group, date, weekday, time and conditions you want to display CMS blocks/pages under. Provide different of your customers with the new information on a daily basis and encourage them to purchase more with the best deals.
+[Magento 2 Dynamic Blocks and Pages](https://magefan.com/magento-2-cms-display-rules-extension) is a multifunctional solution for efficient CMS content management. Create the display rules and show blocks and pages based on customer group, date, weekday, time, and other conditions. 
 
-<a href="https://magefan.com/magento-2-cms-display-rules-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-cms-display-rules-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+Leave manual block and page management in the past. Instead, use smart rules to schedule your content, keep it fresh, and target the right audience.
 
-## Requirements
-  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
+
+<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
+<a href="https://magefan.com/magento-2-cms-display-rules-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1831#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png"> 
+
+## Useful Links
+  * [User Guide](https://magefan.com/magento-2-cms-display-rules-extension/documentation)
+  * [Change Log](https://magefan.com/magento-2-cms-display-rules-extension/change-log)
+  * [FAQs](https://magefan.com/magento-2-cms-display-rules-extension#pattr-faq)
+
+## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
 
 ## Benefits
 
-* Improved Customer Engagement
-* Increased Profit (because of the increase of target buyers)
-* Easier CMS Blocks/Pages Display Management
+* [Automate CMS Blocks and Pages Display](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#automate-cms-blocks-and-pages-display)
+* [Set Up Display Conditions for CMS Content](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#set-up-display-conditions-for-cms-content)
+* [Display Customer Group-Specific Blocks and Pages](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#display-customer-group-specific-blocks-and-pages)
+* [Schedule CMS Pages and Blocks](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#schedule-cms-pages-and-blocks)
+* [Show Alternative Content](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#show-alternative-content)
+* [Display CMS Content for Specific Devices](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#display-cms-content-for-specific-devices)
+* [Keep Page Loading Up to Mark](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#keep-page-loading-up-to-mark)
 
 ## Features
-### CMS Block Display Rules for Product Pages
+### Automate CMS Blocks and Pages Display
+CMS blocks and pages are an integral part of any Magento 2 store. Just think of sales banners or landing pages you create for specific cases. Yet, Magento’s default functionality is quite limited in this regard. So, you still need to enable and disable your blocks and pages manually.
 
-CMS blocks are that type of content on your website that gets a significant amount of attention. So, the way you display them actually defines how effectively they are going to convert. You can display CMS blocks on product pages to notify your customers about some discounts or provide additional info. But products constantly change and product IDs are replaced. It makes it hard for you to update the widget settings. Magento 2 CMS Display Rules extension solves this and allows you to display the CMS blocks by product attributes. e.g. status, Is on Sale, Color, Quantity, etc.
+The Magento 2 Dynamic Blocks and Pages extension has a solution. It comes with diverse functionality to schedule the CMS content and display it under specific conditions. And you don’t need to dive deep into the code. 
 
-<p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-cms-block-display-condition_2.webp">
-</p>
-
-### CMS Display Conditions
-Together with the product attributes you use to define the display of CMS blocks you can use the shopping cart attributes. This feature allows you to display multiple messages like free shipping for those who almost reached $150 in their cart subtotal or the “4th Item for Free” offer for those who've already added 2 same products to their carts. There are no limitations. Create CMS blocks and pages that would drive attention and encourage your customers to stay longer and buy more.
+Just use the admin panel settings and benefit from the automated CMS blocks and pages display.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-cms-block-display-conditions-2_2.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-dynamic-blocks.png">
 </p>
 
-### Customer Group Restrictions
-From all the variety of information you share on your website some definitely is not meant for everyone. No free shipping offers for wholesales or “Spend $1500 and get 20% for the next purchase” for general group of customers. The more customer-oriented the message is the better it will be perceived. Magento 2 CMS Display Rules extension allows you to restrict the visibility of some CMS content to different customer groups.
+### Set Up Display Conditions for CMS Content 
+Magento 2 widgets functionality allows you to display CMS blocks on certain pages in your store. Yet, it’s as far as it gets. What if you want to be more specific than that?
+
+Then, you need the Magento 2 Dynamic Blocks and Pages solution and its display conditions. Use the product and shopping cart attribute combinations to show your content in the right places to make the most out of it!
+
+If you want to use subtle prompts and relevant banners, this solution is exactly for you!
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-display-rules-customer-groups.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/cms-display-rule-conditions-magento-2.png">
 </p>
 
-### CMS Pages and Blocks Display by Date
-One of the particular features of Magento 2 CMS Display Rules extension is the ability to define the time period for the CMS blocks or pages display. No need for you to enable and disable the CMS content when the discount period or the seasonal sale ends. The extension will automatically enable and disable the CMS block or page based on your configurations.
+### Display Customer Group-Specific Blocks and Pages
+If you manage various customer groups, you certainly have special offers for each of them. 
+So, you should have a way to display customer group-specific CMS content to make the customer journey as smooth as possible.
+
+This Magento Dynamic Blocks tool allows you to restrict CMS blocks and pages display based on the customer group. That said, you can run a few sales at the same time and display relevant offers for each group.
+
+The more targeted your offers are, the better results you are going to receive.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-display-rules-date.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-display-cms-bocks-by-customer-group.png">
 </p>
 
-### CMS Pages and Blocks Display by Day of the Week
-Every new day brings something new for your Magento 2 store customers since CMS Display Rule extension allows you to not only create seasonal but daily offers and make your customers happier from day to day. You can offer them “Free Shipping” on Mondays, “3rd Free Item” on Wednesdays and “2 Days Delivery on Fridays”. Whatever the next day brings your customers will be waiting to learn what you’ve prepared for them each day.
+### Schedule CMS Pages and Blocks
+One of the most time-consuming things is constantly monitoring the CMS blocks and pages to enable and disable them on time. This is specifically relevant during the sales season. So, it’s a sore subject for many.
+
+You don’t have to worry about that if you have the Magento 2 Dynamic Blocks and Pages. Define when to enable and disable your content and the extension will do it for you. Besides, you can restrict your blocks and pages to the specific time and days of the week for ultimate results.
+
+Just set this up once and let the extension do the rest automatically!
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-display-rules-day.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-schedule-cms-blocks.png">
 </p>
 
-### Exact Time to Display
-Wouldn’t the features we’ve described above enough? NO! We came even further. Except for defining the date and the exact day of the week to display the CMS blocks or pages you can set the exact time you want them to be displayed at. 
+### Show Alternative Content
+When you use display rules, it means that some of your users may not see your content. Additionally, when blocks and pages are disabled automatically, what will be displayed instead? 
+
+To cover all the gaps you can use this Magento Dynamic Blocks solution and set some alternative content. Then, when a block is disabled, there’s a different one to show instead.
+
+The same goes for CMS pages. You can set an alternative page and redirect users to it once the original content is invalid. This way you avoid 404 pages and ensure a seamless experience.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-display-rules-time.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/display-blocks-and-pages-magento.png">
 </p>
 
-### Redirect Feature
-If you display some CMS blocks/pages only for some groups of customers then what the other would see? You definitely don’t want them to feel limited, blocked or somethingelse. If you don’t want NOT LOGGED IN costumes to see some special discount you can display some other block instead. Magento 2 CMS Display Rules extension has the redirect feature that allows you to set the replacement for the CMS block or page. Create an excellent shopping experience for your customers with the CMS Display Rules.
+### Display CMS Content for Specific Devices
+The device people use for shopping also matters. Thus, you need to make your blocks and pages responsive and attractive across all gadgets.
+
+The Magento 2 Dynamic Blocks and Pages tool allows you to display your content for a specific device. So, you can create unique offers for deskpot, tablet, and mobile users to make their experience equally engaging.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-display-rules-redirect-page_1.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/responsive-magento-2-cms-blocks.png">
 </p>
+
+### Keep Page Loading Up to Mark
+When creating content for your store, you should also pay attention to the page speed. Customers are unlikely to wait for a page or block to finally load. So, you need to optimize them.
+
+The Magento 2 Dynamic Blocks and Pages extension has a few loading options such as lazy load on scroll, Ajax on page load, and Ajax on first scroll. You can choose the most fitting option or leave this choice to the extension. It will implement the best option for your website.
+
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-display-rules-redirect-block.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/lazy-load-cms-blocks-in-magento.png">
 </p>
-
-## Documentation
-
-**General**
-* [How to install Magento 2 CMS Display Rule Extension](https://magefan.com/magento-2-cms-display-rules-extension/installation)
-* [How to update Magento 2 CMS Display Rule Extension](https://magefan.com/magento-2-cms-display-rules-extension/updating)
-* [How to uninstall Magento 2 CMS Display Rule Extension](https://magefan.com/magento-2-cms-display-rules-extension/uninstalling)
-
-**Configuration**
-* [How to Configure CMS Display Rules in Magento 2?](https://magefan.com/magento-2-cms-display-rules-extension/configuration)
-* [How to Enable CMS Display Rule for Static Pages in Magento 2?](https://magefan.com/configure-cms-display-rule-for-static-pages-in-magento-2)
-* [How to Configure CMS Block Restrictions in Magento 2?](https://magefan.com/configure-cms-block-restrictions-in-magento-2)
 
 ## Video Reference
 
@@ -107,7 +126,7 @@ Try out our open demo and if you like our extension **please give us some star o
         <a href="https://cmsdr.demo.magefan.top/deirdre-relaxed-fit-capri.html">
           <img
             src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-1.jpg"
-            alt="Magento 2 CMS Display Rules Extension Storefront Demo"
+            alt="Magento 2 Dynamic Blocks and Pages Storefront Demo"
             height="220"
           >
         </a>
@@ -115,8 +134,8 @@ Try out our open demo and if you like our extension **please give us some star o
       <td align="center" valign="middle">
         <a href="https://cmsdr.demo.magefan.top/admin/admin/">
           <img
-            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
-            alt="Magento 2 CMS Display Rules Extension Admin Panel Demo"
+            src="https://cs.magefan.com/version1732118579/frontend/Magefan/next/en_US/Magefan_CssOptimizer/images/product-tab-demo-2.jpg"
+            alt="Magento 2 Dynamic Blocks and Pages Admin Panel Demo"
             height="220"
           >
         </a>
@@ -140,7 +159,7 @@ Try out our open demo and if you like our extension **please give us some star o
 ## Support
 If you have any issues, please [contact us](mailto:support@magefan.com)
 then if you still need help, open a bug report in GitHub's
-[issue tracker](https://github.com/magefan/magento-2-cms-display-rules/issues).
+[issue tracker](https://github.com/magefan/magento-2-dynamic-blocks-and-pages/issues).
 
 ## Need More Features?
 Please contact us to get a quote
